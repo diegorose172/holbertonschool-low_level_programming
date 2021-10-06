@@ -5,7 +5,7 @@
 */
 int main(void)
 /**
-*is this supposed to have a description here
+* main - this supposed to have a description here
 */
 {
 	puts("\"Programming is like building a multilingual puzzle");
